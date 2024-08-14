@@ -6,7 +6,8 @@ body {
     border: 5px solid rgb(128, 0, 122);
     border-radius: 10px;
     height: 400px;
-    align-items: center;
+    display: block;
+    margin: auto;
 }
 
 .link-button {
