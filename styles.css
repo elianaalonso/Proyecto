@@ -30,8 +30,8 @@ body {
     font-size: 30px;
 }
 
-.image1{
-    margin-left: 5cm;
+.img1{
+    text-align: center;
 }
 
 .two{
@@ -44,4 +44,4 @@ body {
 
 div.button{
     text-align: center;
-}
+} 
