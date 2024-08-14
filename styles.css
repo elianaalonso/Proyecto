@@ -17,3 +17,15 @@ body {
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
 }
+
+.one{
+    color:blue;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 60px;
+}
+
+.two{
+    color: blue ;
+    font-size: 30px;
+}
