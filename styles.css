@@ -18,6 +18,10 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
+#bgcolor{
+    background-color: rgb(183, 147, 197);
+}
+
 .one{
     color:blue;
     background-color: rgb(255, 255, 255);
