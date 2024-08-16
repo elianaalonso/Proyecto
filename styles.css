@@ -2,8 +2,8 @@ body {
     background-color: rgb(50, 56, 71);
 }
 
-.image{
-    height: 300px
+.image1{
+    height: 350px
 }
 
 .link-button {
@@ -25,6 +25,7 @@ body {
 .two{
     color: rgb(255, 255, 255) ;
     font-size: 30px;
+    text-align: center;
 }
 
 .img1{
