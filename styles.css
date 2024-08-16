@@ -3,8 +3,6 @@ body {
 }
 
 .image {
-    border: 5px solid rgb(128, 0, 122);
-    border-radius: 10px;
     height: 400px;
     display: block;
     margin: auto;
@@ -20,6 +18,4 @@ body {
     box-shadow: 2px 3px #888888;
 }
 
-.titles {
-    text-align: center;
-}
+
