@@ -1,11 +1,9 @@
 body {
-    background-color: rgb(255, 255, 165);
+    background-color: rgb(50, 56, 71);
 }
 
 .image{
-    border: 5px solid green;
-    border-radius: 10px;
-    height: 400px;
+    height: 300px
 }
 
 .link-button {
@@ -28,3 +26,15 @@ body {
     color: rgb(255, 255, 255) ;
     font-size: 30px;
 }
+
+.img1{
+    text-align: center;
+}
+
+.p1{
+    text-align: center;
+}
+
+div.button{
+    text-align: center;
+} 
