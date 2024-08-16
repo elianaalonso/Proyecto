@@ -1,11 +1,9 @@
 body {
-    background-color: white;
+    background-color: rgb(50, 56, 71);
 }
 
 .image{
-    border: 5px solid rgb(128, 0, 122);
-    border-radius: 10px;
-    height: 400px;
+    height: 300px
 }
 
 .link-button {
