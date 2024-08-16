@@ -2,8 +2,10 @@ body {
     background-color: rgb(50, 56, 71);
 }
 
-.image1{
-    height: 350px
+.image{
+    height: 350px;
+    display:block;
+    margin:auto
 }
 
 .link-button {
@@ -25,10 +27,6 @@ body {
 .two{
     color: rgb(255, 255, 255) ;
     font-size: 30px;
-    text-align: center;
-}
-
-.img{
     text-align: center;
 }
 
